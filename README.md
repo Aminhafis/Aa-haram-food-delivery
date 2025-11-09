@@ -116,7 +116,7 @@ text
 ### Setup Instructions
 
 1. Clone the repository
-git clone https://github.com/yourusername/aa-haram-food-delivery.git
+git clone https://github.com/Aminhafis/aa-haram-food-delivery.git
 cd aa-haram-food-delivery
 
 text
