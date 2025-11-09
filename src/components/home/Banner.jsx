@@ -87,6 +87,9 @@ const Banner = () => {
                   src="https://images.pexels.com/photos/30307761/pexels-photo-30307761.jpeg"
                   alt="Healthy Bowl"
                   className="w-full h-full object-cover"
+                  loading="eager"
+                  decoding="async"
+                  fetchpriority="high"
                 />
               </div>
             </div>
@@ -100,6 +103,9 @@ const Banner = () => {
                   src="https://images.pexels.com/photos/2336674/pexels-photo-2336674.jpeg"
                   alt="Soup Bowl"
                   className="w-full h-full object-cover"
+                  loading="eager"
+                  decoding="async"
+                  fetchpriority="high"
                 />
               </div>
             </div>
@@ -113,6 +119,10 @@ const Banner = () => {
                   src="https://images.pexels.com/photos/5836777/pexels-photo-5836777.jpeg"
                   alt="Salmon Bowl"
                   className="w-full h-full object-cover"
+                  loading="eager"
+                  decoding="async"
+                  fetchpriority="high"
+
                 />
               </div>
             </div>
