@@ -65,7 +65,7 @@ const Auth = () => {
     <div className="min-h-screen bg-gradient-to-br from-primary-50 via-orange-50 to-yellow-50 flex items-center justify-center py-12 px-4">
       <Card className="w-full max-w-md">
         <CardHeader className="text-center">
-          <CardTitle className="text-2xl">Welcome to FoodHub</CardTitle>
+          <CardTitle className="text-2xl">Welcome to Aa-haram</CardTitle>
           <CardDescription>
             Login or create an account to continue
           </CardDescription>
